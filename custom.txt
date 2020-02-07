@@ -1,3 +1,4 @@
+
 # These are to add domains which I have come across which are not found in the following sources:
 #   * https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/fakenews-gambling/hosts
 #   * https://hosts-file.net/ad_servers.txt
@@ -12,3 +13,4 @@
 
 # Download Sites
 0.0.0.0 speed4up.com
+

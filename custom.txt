@@ -1,5 +1,5 @@
 
-# These are to add domains which I have come across which are not found in the following sources:
+# This file contains domains which are/were not found in the following sources:
 #   * https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/fakenews-gambling/hosts
 #   * https://hosts-file.net/ad_servers.txt
 

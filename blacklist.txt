@@ -1,4 +1,6 @@
 
+# Source: https://raw.githubusercontent.com/rramphal/hosts/master/blacklist.txt
+
 # This file contains domains which are/were not found in the following sources:
 #   * https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/fakenews-gambling/hosts
 #   * https://hosts-file.net/ad_servers.txt

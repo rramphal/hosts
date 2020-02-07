@@ -16,8 +16,9 @@
 # Download Sites
 0.0.0.0 speed4up.com
 
-# https://github.com/OneClickLab/ugly-email-website/blob/gh-pages/pixels.json
-# https://github.com/OneClickLab/ugly-email-website/blob/gh-pages/pixels.js
+# Email Tracking
+#   * https://github.com/OneClickLab/ugly-email-website/blob/gh-pages/pixels.json
+#   * https://github.com/OneClickLab/ugly-email-website/blob/gh-pages/pixels.js
 0.0.0.0 bl-1.com
 0.0.0.0 close.io
 0.0.0.0 contactmonkey.com
@@ -41,8 +42,9 @@
 0.0.0.0 welovepg.polymail.io
 0.0.0.0 yamm-track.appspot.com
 
-# https://discourse.pi-hole.net/t/how-do-i-block-e-mail-tracking/15697/4
-# https://github.com/cfa999/email_trackers_block/blob/master/email_trackers
+# Email Tracking
+#   * https://discourse.pi-hole.net/t/how-do-i-block-e-mail-tracking/15697/4
+#   * https://github.com/cfa999/email_trackers_block/blob/master/email_trackers
 0.0.0.0 acxiom-online.com
 0.0.0.0 adsrvr.org
 0.0.0.0 adsymptopic.com

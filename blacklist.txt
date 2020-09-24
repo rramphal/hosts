@@ -16,6 +16,9 @@
 # Download Sites
 0.0.0.0 speed4up.com
 
+# Annoying paywall sites
+0.0.0.0 businessinsider.com
+
 # Email Tracking
 #   * https://github.com/OneClickLab/ugly-email-website/blob/gh-pages/pixels.json
 #   * https://github.com/OneClickLab/ugly-email-website/blob/gh-pages/pixels.js

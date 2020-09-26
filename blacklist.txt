@@ -3,23 +3,25 @@
 
 # This file contains domains which, at one point, were not found in the following sources:
 #   * https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/fakenews-gambling/hosts
-#   * https://hosts-file.net/ad_servers.txt
 
-# Autopilot User Tracking
+# Autopilot user tracking
 0.0.0.0 bislr.com
 0.0.0.0 autopilothq.com
 
-# Superhuman Email Tracking
+# Superhuman email tracking
 0.0.0.0 superhuman.com
 0.0.0.0 r.superhuman.com
 
-# Download Sites
+# Download sites
 0.0.0.0 speed4up.com
 
 # Annoying paywall sites
 0.0.0.0 businessinsider.com
+0.0.0.0 markets.businessinsider.com
+0.0.0.0 insider.com
+0.0.0.0 insider-intelligence.com
 
-# Email Tracking
+# Email tracking
 #   * https://github.com/OneClickLab/ugly-email-website/blob/gh-pages/pixels.json
 #   * https://github.com/OneClickLab/ugly-email-website/blob/gh-pages/pixels.js
 0.0.0.0 bl-1.com
@@ -45,7 +47,7 @@
 0.0.0.0 welovepg.polymail.io
 0.0.0.0 yamm-track.appspot.com
 
-# Email Tracking
+# Email tracking
 #   * https://discourse.pi-hole.net/t/how-do-i-block-e-mail-tracking/15697/4
 #   * https://github.com/cfa999/email_trackers_block/blob/master/email_trackers
 0.0.0.0 acxiom-online.com
@@ -228,4 +230,3 @@
 0.0.0.0 xqueue.de
 0.0.0.0 yesware.com
 0.0.0.0 ziffimages.com
-

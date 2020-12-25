@@ -21,6 +21,9 @@
 0.0.0.0 insider.com
 0.0.0.0 insider-intelligence.com
 
+# Useless aggregator sites
+0.0.0.0 stackshare.io
+
 # Email tracking
 #   * https://github.com/OneClickLab/ugly-email-website/blob/gh-pages/pixels.json
 #   * https://github.com/OneClickLab/ugly-email-website/blob/gh-pages/pixels.js

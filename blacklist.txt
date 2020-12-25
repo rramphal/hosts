@@ -22,7 +22,7 @@
 0.0.0.0 insider-intelligence.com
 
 # Annoying loginwall sites
-0.0.0.0. quora.com
+0.0.0.0 quora.com
 
 # Useless aggregator sites
 0.0.0.0 stackshare.io

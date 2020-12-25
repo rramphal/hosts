@@ -8,11 +8,7 @@
 0.0.0.0 bislr.com
 0.0.0.0 autopilothq.com
 
-# Superhuman email tracking
-0.0.0.0 superhuman.com
-0.0.0.0 r.superhuman.com
-
-# Download sites
+# Low-quality download sites
 0.0.0.0 speed4up.com
 
 # Annoying paywall sites
@@ -26,6 +22,13 @@
 
 # Useless aggregator sites
 0.0.0.0 stackshare.io
+
+# Low-quality sites
+0.0.0.0 answers.yahoo.com
+
+# Superhuman email tracking
+0.0.0.0 superhuman.com
+0.0.0.0 r.superhuman.com
 
 # Email tracking
 #   * https://github.com/OneClickLab/ugly-email-website/blob/gh-pages/pixels.json

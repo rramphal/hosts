@@ -7,6 +7,7 @@
 # User Tracking
 #   Wicked Reports
 0.0.0.0 wickedreports.com
+0.0.0.0 www.wickedreports.com
 0.0.0.0 widget.wickedreports.com
 #   Autopilot
 0.0.0.0 bislr.com

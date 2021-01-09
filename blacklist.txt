@@ -10,28 +10,37 @@
 0.0.0.0 widget.wickedreports.com
 #   Autopilot
 0.0.0.0 bislr.com
+0.0.0.0 www.bislr.com
 0.0.0.0 autopilothq.com
+0.0.0.0 www.autopilothq.com
 
 # Low-quality download sites
 0.0.0.0 speed4up.com
+0.0.0.0 www.speed4up.com
 
 # Annoying paywall sites
 0.0.0.0 businessinsider.com
+0.0.0.0 www.businessinsider.com
 0.0.0.0 markets.businessinsider.com
 0.0.0.0 insider.com
+0.0.0.0 www.insider.com
 0.0.0.0 insider-intelligence.com
+0.0.0.0 www.insider-intelligence.com
 
 # Annoying loginwall sites
-0.0.0.0 quora.com
+# 0.0.0.0 quora.com
+# 0.0.0.0 www.quora.com
 
 # Useless aggregator sites
 0.0.0.0 stackshare.io
+0.0.0.0 www.stackshare.io
 
 # Low-quality sites
 0.0.0.0 answers.yahoo.com
 
 # Superhuman email tracking
 0.0.0.0 superhuman.com
+0.0.0.0 www.superhuman.com
 0.0.0.0 r.superhuman.com
 
 # Email tracking

@@ -1,5 +1,5 @@
 
-# Source: https://raw.githubusercontent.com/rramphal/hosts/master/lists/blacklist
+# Source: https://raw.githubusercontent.com/rramphal/hosts/master/lists/all
 
 # Low-quality aggregator sites
 
@@ -436,6 +436,19 @@
 0.0.0.0 www.yesware.com
 0.0.0.0 ziffimages.com
 0.0.0.0 www.ziffimages.com
+
+# User tracking (toggleable)
+
+## Stripe
+
+0.0.0.0 stripe.network
+0.0.0.0 www.stripe.network
+0.0.0.0 js.stripe.com
+0.0.0.0 www.js.stripe.com
+0.0.0.0 m.stripe.network
+0.0.0.0 www.m.stripe.network
+0.0.0.0 m.stripe.com
+0.0.0.0 www.m.stripe.com
 
 # User tracking
 

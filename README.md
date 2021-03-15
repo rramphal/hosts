@@ -2,11 +2,13 @@
 
 ## Lists
 
-Name                    | URL
------------------------ | ---
-**`blacklist`**         | **https://raw.githubusercontent.com/rramphal/hosts/master/lists/blacklist**
-`toggleable`            | https://raw.githubusercontent.com/rramphal/hosts/master/lists/toggleable
-`all` (not recommended) | https://raw.githubusercontent.com/rramphal/hosts/master/lists/all
+Name                          | URL
+----------------------------- | ---
+**`hosts`**                   | **https://raw.githubusercontent.com/rramphal/hosts/master/lists/blacklist**
+`toggleable`                  | https://raw.githubusercontent.com/rramphal/hosts/master/lists/toggleable
+`hosts-all` (not recommended) | https://raw.githubusercontent.com/rramphal/hosts/master/lists/all
+
+NOTE: This repo assumes [Steven Black](https://github.com/StevenBlack)'s [fakenews-gambling](https://github.com/StevenBlack/hosts/tree/master/alternates/fakenews-gambling) `hosts` file as a base.
 
 ### What is the `toggleable` list?
 

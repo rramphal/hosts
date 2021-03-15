@@ -8,9 +8,12 @@ All  | https://raw.githubusercontent.com/rramphal/hosts/master/lists/blacklist
 
 ## Updating
 
-Update relevant file in `/lists` or create a new file with the `.txt` extension.
-If you create a new file, please have a descriptive comment that starts with `#` as the first line of the file.
-When listing domains, only list the domain itself.
-Then run `node generate.js` to generate lists.
+1. Update relevant file in `/data` or create a new file with the `.txt` extension.
+2. Run `node generate.js` to generate lists.
 
-NOTE: `www.` is prepended to all domains automatically.
+### Guidelines
+
+* `www.` is prepended to all domains automatically.
+* Each file in `/data` must have a descriptive comment that starts with `#` as the first line of the file.
+* Each file in `/data` must end with a blank line.
+* When listing domains, only list the domain itself.

@@ -1,0 +1,3 @@
+# Low-quality aggregator sites
+
+stackshare.io

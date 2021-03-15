@@ -51,8 +51,8 @@ files.forEach((fileName) => {
 
   console.log(pad('PROCESSING'), filePath);
 
-  const data     = fs.readFileSync(filePath, 'utf8').toString();
-  const lines    = data.split('\n');
+  const data  = fs.readFileSync(filePath, 'utf8').toString();
+  const lines = data.split('\n');
 
   lines.forEach((line) => {
     const trimmedLine = line.trim();

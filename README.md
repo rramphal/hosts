@@ -1,5 +1,7 @@
 # `hosts`
 
+My completely subjective list of domains to block.
+
 ## Lists
 
 Name                          | URL

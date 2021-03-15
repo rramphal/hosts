@@ -1,6 +1,21 @@
 
 # Source: https://raw.githubusercontent.com/rramphal/hosts/master/lists/blacklist
 
+# Low-quality aggregator sites
+
+0.0.0.0 stackshare.io
+0.0.0.0 www.stackshare.io
+
+# Low-quality download sites
+
+0.0.0.0 speed4up.com
+0.0.0.0 www.speed4up.com
+
+# Low-quality user-generated content sites
+
+0.0.0.0 answers.yahoo.com
+0.0.0.0 www.answers.yahoo.com
+
 # Email tracking
 
 ##  Superhuman
@@ -422,37 +437,6 @@
 0.0.0.0 ziffimages.com
 0.0.0.0 www.ziffimages.com
 
-# Annoying loginwall sites
-
-0.0.0.0 quora.com
-0.0.0.0 www.quora.com
-
-# Low-quality aggregator sites
-
-0.0.0.0 stackshare.io
-0.0.0.0 www.stackshare.io
-
-# Low-quality download sites
-
-0.0.0.0 speed4up.com
-0.0.0.0 www.speed4up.com
-
-# Low-quality user-generated content sites
-
-0.0.0.0 answers.yahoo.com
-0.0.0.0 www.answers.yahoo.com
-
-# Annoying paywall sites
-
-0.0.0.0 businessinsider.com
-0.0.0.0 www.businessinsider.com
-0.0.0.0 markets.businessinsider.com
-0.0.0.0 www.markets.businessinsider.com
-0.0.0.0 insider.com
-0.0.0.0 www.insider.com
-0.0.0.0 insider-intelligence.com
-0.0.0.0 www.insider-intelligence.com
-
 # User tracking
 
 ## Wicked Reports
@@ -469,4 +453,20 @@
 0.0.0.0 autopilothq.com
 0.0.0.0 www.autopilothq.com
 
-# Last updated: 2021-03-14 20:25
+# Annoying loginwall sites
+
+0.0.0.0 quora.com
+0.0.0.0 www.quora.com
+
+# Annoying paywall sites
+
+0.0.0.0 businessinsider.com
+0.0.0.0 www.businessinsider.com
+0.0.0.0 markets.businessinsider.com
+0.0.0.0 www.markets.businessinsider.com
+0.0.0.0 insider.com
+0.0.0.0 www.insider.com
+0.0.0.0 insider-intelligence.com
+0.0.0.0 www.insider-intelligence.com
+
+# Last updated: 2021-03-14 20:32

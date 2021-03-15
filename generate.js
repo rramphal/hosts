@@ -7,9 +7,6 @@ const OUTPUT_FILEPATH = path.join(__dirname, 'lists', 'blacklist');
 const PREAMBLE = `
 # Source: https://raw.githubusercontent.com/rramphal/hosts/master/lists/blacklist
 
-# This file contains domains which, at one point, were not found in the following sources:
-#   * https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/fakenews-gambling/hosts
-
 `;
 
 const POSTAMBLE = `

@@ -466,12 +466,23 @@
 0.0.0.0 autopilothq.com
 0.0.0.0 www.autopilothq.com
 
+## Cohere
+
+0.0.0.0 cohere.so
+0.0.0.0 www.cohere.so
+0.0.0.0 service.cohere.so
+0.0.0.0 www.service.cohere.so
+
 # Annoying loginwall sites
 
 0.0.0.0 quora.com
 0.0.0.0 www.quora.com
+0.0.0.0 pinterest.com
+0.0.0.0 www.pinterest.com
 
 # Annoying paywall sites
+
+## Business Insider
 
 0.0.0.0 businessinsider.com
 0.0.0.0 www.businessinsider.com
@@ -482,4 +493,4 @@
 0.0.0.0 insider-intelligence.com
 0.0.0.0 www.insider-intelligence.com
 
-# Last updated: 2021-03-14 21:30
+# Last updated: 2021-06-18 16:25

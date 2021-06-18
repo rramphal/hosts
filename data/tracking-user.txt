@@ -9,3 +9,8 @@ widget.wickedreports.com
 
 bislr.com
 autopilothq.com
+
+## Cohere
+
+cohere.so
+service.cohere.so

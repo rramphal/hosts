@@ -1,3 +1,4 @@
 # Annoying loginwall sites
 
 quora.com
+pinterest.com

@@ -16,6 +16,11 @@
 0.0.0.0 answers.yahoo.com
 0.0.0.0 www.answers.yahoo.com
 
+# Sketchy extensions
+
+0.0.0.0 autohdvideoapi.com
+0.0.0.0 www.autohdvideoapi.com
+
 # Email tracking
 
 ##  Superhuman
@@ -493,4 +498,4 @@
 0.0.0.0 insider-intelligence.com
 0.0.0.0 www.insider-intelligence.com
 
-# Last updated: 2021-06-18 16:25
+# Last updated: 2022-01-23 03:36

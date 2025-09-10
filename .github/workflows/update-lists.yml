@@ -1,9 +1,11 @@
 name: Update Lists
 
 on:
-  # run at midnight every 1st and 16th of every month
+  push:
+    branches:
+      - master
   schedule:
-    - cron: "0 0 1,16 * *"
+    - cron: "0 0 1,16 * *" # 00:00 on the 1st and 16th monthly
 
   # run on manual dispatch
   workflow_dispatch:

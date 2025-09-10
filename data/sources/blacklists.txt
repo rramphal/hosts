@@ -2,8 +2,7 @@
 ##   * https://github.com/StevenBlack/hosts
 ##   * https://github.com/lightswitch05/hosts (Developer Dan)
 ##   * https://firebog.net
-##   * https://big.oisd.nl (OISD aggregates lists but it no longer supports hosts/domains syntax in favor of regex)
-##   * https://nsfw.oisd.nl (OISD aggregates lists but it no longer supports hosts/domains syntax in favor of regex)
+##   * https://oisd.nl
 
 ## Adware, Malware, Ads ##
 # https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
@@ -82,3 +81,11 @@
 # https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/AmazonFireTV.txt
 # https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-blocklist.txt
 # https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt
+
+## Other ##
+# https://download.dnscrypt.info/blacklists/domains/mybase.txt
+
+## DNSCrypt Format ##
+# https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/refs/heads/master/data/dnscrypt/extra.txt
+# https://big.oisd.nl
+# https://nsfw.oisd.nl

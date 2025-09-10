@@ -1,19 +1,19 @@
 # `hosts`
 
 Instead of point to other people's lists and trusting them implicitly, this script downloads, validates, concatenates, deduplicates, and formats them all into a single file.
-It also removes any whitelisted domains (either via a source URL or the `whitelist.txt` list).
+It also removes any whitelisted domains.
 
-In `data/`, there are three folders: `blacklists`, `whitelists`, and `sources`.
+In `data/`, there are three folders (`blacklists`, `whitelists`, and `sources`) and `localhost.txt`.
 `blacklists` and `whitelists` have text files with domains listed in the hosts format (not regex, etc.).
 `sources` are lists of URLs that must first be downloaded and then treated as black/white-lists.
-There is also `data/localhost.txt` which are the loopback / localhost domains.
+`localhost.txt` are the loopback / localhost domains.
 
 ## Lists
 
 Name         | URL                                                                      | Description
 ------------ | ------------------------------------------------------------------------ | -----------
 `blacklist`  | https://raw.githubusercontent.com/rramphal/hosts/master/lists/blacklist  | sourced blacklists + custom blacklists
-**`hosts`**    | **https://raw.githubusercontent.com/rramphal/hosts/master/lists/hosts**  | localhost + `blacklist` - `whitelist`
+**`hosts`**  | **https://raw.githubusercontent.com/rramphal/hosts/master/lists/hosts**  | `localhost.txt` + `blacklist` - `whitelist`
 
 ### Breaking Functionality
 
@@ -42,3 +42,7 @@ For that reason, there are some Stripe domains listed under `data/whitelist/ecom
 * When listing domains in `/data/blacklists` or `/data/whitelists`, only list the domain itself.
 * `www.` is prepended to custom lists domains automatically, but NOT to the sourced lists.
 * Commented lines begin with `#`.
+
+### Github Action
+
+This repo contains a Github action that automatically updates the lists periodically and on push.

@@ -46,3 +46,11 @@ For that reason, there are some Stripe domains listed under `data/whitelist/ecom
 ### Github Action
 
 This repo contains a Github action that automatically updates the lists periodically and on push.
+
+## Roadmap
+
+* [x] Concatenate user blacklists
+* [x] Concatenate user whitelists
+* [x] Import external lists from source URLs
+* [x] Automatically update lists periodically and on push
+* [ ] Support DNSCrypt/regex domain formats

@@ -1,6 +1,4 @@
-# User tracking (toggleable)
-
-## Stripe
+# E-Commerce
 
 stripe.network
 js.stripe.com

@@ -1,0 +1,45 @@
+name: Update Lists
+
+on:
+  # run at midnight every 1st and 16th of every month
+  schedule:
+    - cron: "0 0 1,16 * *"
+
+  # run on manual dispatch
+  workflow_dispatch:
+
+jobs:
+  update-lists:
+    timeout-minutes: 60
+    runs-on: ubuntu-latest
+
+    permissions:
+      # Give the default GITHUB_TOKEN write permission to commit and push the
+      # added or changed files to the repository.
+      contents: write
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v5
+        with:
+          ref: ${{ github.head_ref }}
+
+      - name: Install Python
+        uses: actions/setup-python@v6
+        with:
+          python-version: '3.13'
+
+      - name: Install Python dependencies
+        run: pip install -r requirements.txt
+
+      - name: Update lists
+        run: python generate.py
+
+      - name: Set datestamp
+        run: |
+          echo "DATESTAMP=$(date --rfc-3339=date)" >> $GITHUB_ENV
+
+      - name: Commit new data
+        uses: stefanzweifel/git-auto-commit-action@v6
+        with:
+          commit_message: "${{ env.DATESTAMP }} lists"

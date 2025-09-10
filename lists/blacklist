@@ -1,488 +1,710 @@
+# SOURCE: https://raw.githubusercontent.com/rramphal/hosts/master/lists/blacklist
 
-# Source: https://raw.githubusercontent.com/rramphal/hosts/master/lists/blacklist
+acxiom-online.com
+adam4adam.com
+admin-k8s.grindr.com
+admin.grindr.com
+adserver.sniffies.com
+adsrvr.org
+adsymptopic.com
+advertising.com
+agkn.com
+alcmpn.com
+alocdn.com
+answers.yahoo.com
+api.grindr.com
+api.mixpanel.com
+app.mixmax.com
+app.outreach.io
+app.relateiq.com
+app.yesware.com
+autohdvideoapi.com
+autopilothq.com
+bananatag.com
+bateworld.com
+bdsmlr.com
+beats-prod.grindr.com
+bftv.tv
+bidswitch.net
+bislr.com
+bl-1.com
+blendr.com
+blog.grindr.com
+bluekai.com
+boomeranggmail.com
+boyfriend.tv
+boyfriendtv.com
+boyfriendtv.net
+broadcasts.grindr.com
+broapp.com
+bumble.com
+businessinsider.com
+captcha-dev.grindr.com
+captcha-prod.grindr.com
+ccpa.grindr.com
+cdns-preprod.grindr.com
+cdns.grindr.com
+cf-admin.grindr.com
+cf.grindr.com
+chappyapp.com
+chat-internal.grindr.com
+chat.grindr.com
+chatsync.grindr.com
+cirrusinsight.com
+cl.exct.net
+click.icptrack.com
+click.mailer.atlassian.com
+close.io
+cmail1.com
+coffeemeetsbagel.com
+cohere.so
+constantcontact.com
+contactlab.it
+contactmonkey.com
+coomer.st
+coomer.su
+crash.grindr.com
+criteo.com
+crsend.com
+data-access-requests.grindr.com
+demdex.net
+discuss.grindr.com
+dotmailer.com
+dotomi.com
+doubleclick.net
+downloads.grindr.com
+dudesnude.com
+dzone.com
+eharmony.com
+eks-gaymoji.grindr.com
+elaine-asp.de
+email.grindr.com
+email.mixmax.com
+email.thunkablemail.com
+email.uber.com
+emailretargeting.com
+emailtracking.azure.com
+emltrk.com
+exacttarget.com
+exct.net
+fetlife.com
+frontapp.com
+ftp.grindr.com
+fxggxt.com
+g3-beta-upload-test.grindr.com
+g3-beta-upload.grindr.com
+gatehousemedia.com
+gay.aebn.com
+gaypornhublive.com
+getsidekick.com
+go.grindr.com
+go.rjmetrics.com
+go.toutapp.com
+grindr-aurora-db-prod-lb.grindr.com
+grindr.com
+grindrads.com
+grindrbloop.com
+grommr.com
+growlrapp.com
+gtc-online.de
+gw.grindr.com
+happn.com
+help.grindr.com
+helpdesk.grindr.com
+hornet.com
+hsms06.com
+hubspot.com
+icontact.com
+icptrack.com
+ienkins.grindr.com
+ihrgeld2016.com
+inbound.grindr.com
+infusionsoft.com
+insider-intelligence.com
+insider.com
+intentiq.com
+intercom.io
+internal-jenkins.grindr.com
+into.grindr.com
+intomore.com
+inxmail.com
+iponweb.net
+islamicreliefcanada.org
+ivitrack.com
+jackd.com
+jenkins.grindr.com
+jetlore.com
+justthegays.com
+justusboys.com
+kik.com
+kindr.grindr.com
+l.sololearn.com
+launchbit.com
+legal-agreements-dev.grindr.com
+legal-agreements-prod.grindr.com
+lemediavault.com
+liadm.com
+licasd.com
+link-preview.grindr.com
+link.getmailspring.com
+link.mail.mytaxi.com
+link.notifications.atlassian.com
+links.mixmax.com
+list-manage.com
+list-manage1.com
+litmus.com
+locanto.com
+lpsg.com
+mailchimp.com
+maileon.com
+mailer-service.de
+mailfoogae.appspot.com
+mailingwork.de
+mailstat.us
+mailtrack.io
+mandrillapp.com
+manhunt.net
+marketing.intercom-mail-200.com
+markets.businessinsider.com
+match.com
+mathtag.com
+mediawallahscript.com
+medium.com
+mixmax.com
+mixpanel.com
+mkt4477.com
+mkto-k0023.com
+mltrk.io
+mmarketing.fr
+mojn.com
+neo-account-testing.grindr.com
+neo-account.grindr.com
+neo-upload-cf.grindr.com
+neo-upload-v3.grindr.com
+neo-upload.grindr.com
+neo.grindr.com
+nethunt.com
+neustar.biz
+newsletter2go.de
+nexac.com
+nsfw.grindr.com
+nytimes.com
+okcupid.com
+openx.net
+ortto.com
+outrch.com
+outreach.io
+ping.answerbook.com
+pinterest.com
+pippio.com
+planetromeo.com
+plentymarkets.com
+pof.com
+polymail.io
+pornhub.com
+postmarkapp.com
+preprod1.grindr.com
+presence.grindr.com
+privacy.grindr.com
+prod.ws.sniffies.com
+profile.sniffiesassets.com
+promio-mail.com
+pstmrk.it
+qa-jenkins.grindr.com
+quora.com
+qutieapp.com
+r.superhuman.com
+rayadatingapp.com
+realmen.com
+realtime.email
+recon.com
+relateiq.com
+rent.men
+rentmasseur.com
+rentmen.eu
+reporting-portal.grindr.com
+returnpath.net
+richrelevance.com
+rjmetrics.com
+rlcdn.com
+s3.grindr.com
+safetytips.grindr.com
+scissr.com
+scrippsnetworks.com
+scruff.com
+securepubads.g.doubleclick.net
+selfservice.grindr.com
+sendgrid.com
+sendgrid.net
+service.cohere.so
+signal.com
+sitescout.com
+skout.com
+sniffies.com
+speed4up.com
+splunk-1-us.grindr.com
+splunk-2-us.grindr.com
+squirt.org
+stackshare.io
+staging.grindr.com
+straypup.com
+streak.com
+superhuman.com
+t.hsms06.com
+t.me
+t.senalcinco.com
+t.senaldos.com
+t.senalquatro.com
+t.senaltres.com
+t.senaluno.com
+t.sidekickopen01.com
+t.sidekickopen02.com
+t.sidekickopen03.com
+t.sidekickopen04.com
+t.sidekickopen05.com
+t.sidekickopen06.com
+t.sidekickopen07.com
+t.sidekickopen08.com
+t.sidekickopen09.com
+t.sidekickopen10.com
+t.sidekickopen11.com
+t.sidekickopen12.com
+t.signalecinque.com
+t.signaledue.com
+t.signalequattro.com
+t.signaletre.com
+t.signaleuna.com
+t.signauxcinq.com
+t.signauxdeux.com
+t.signauxdix.com
+t.signauxhuit.com
+t.signauxneuf.com
+t.signauxquatre.com
+t.signauxsept.com
+t.signauxsix.com
+t.signauxtrois.com
+t.signauxun.com
+t.sigopn01.com
+t.sigopn02.com
+t.sigopn03.com
+t.sigopn04.com
+t.sigopn05.com
+t.strk01.email
+t.strk02.email
+t.strk03.email
+t.strk04.email
+t.strk05.email
+t.strk06.email
+t.strk07.email
+t.strk08.email
+t.strk09.email
+t.strk10.email
+t.strk11.email
+t.strk12.email
+t.strk13.email
+t.yesware.com
+tapad.com
+tastebuds.fm
+telegram.org
+theleague.com
+thisvid.com
+tinder.com
+tinyletterapp.com
+toutapp.com
+track.getsidekick.com
+track.mixmax.com
+trackedlink.net
+tracking.cirrusinsight.com
+travelbird.com
+trinity-cdn.grindr.com
+trinity-cf.grindr.com
+trinity.grindr.com
+trker1.azalead.com
+tzoo-img.com
+use.maps.sniffies.com
+uswapi.sniffies.com
+uswapi2.sniffies.com
+v12group.com
+via.intercom.io
+videoamp.com
+voicefive.com
+wassup.grindr.com
+waterboys.com
+web-waf.grindr.com
+web.frontapp.com
+web.grindr.com
+web.sniffiesassets.com
+web.telegram.org
+web2.grindr.com
+webtrekk.net
+welovepg.polymail.io
+whisper.sh
+whiteboard.grindr.com
+wickedreports.com
+wickr.com
+widget.wickedreports.com
+ws.sniffies.com
+www.acxiom-online.com
+www.adam4adam.com
+www.admin-k8s.grindr.com
+www.admin.grindr.com
+www.adserver.sniffies.com
+www.adsrvr.org
+www.adsymptopic.com
+www.advertising.com
+www.agkn.com
+www.alcmpn.com
+www.alocdn.com
+www.answers.yahoo.com
+www.api.grindr.com
+www.api.mixpanel.com
+www.app.mixmax.com
+www.app.outreach.io
+www.app.relateiq.com
+www.app.yesware.com
+www.autohdvideoapi.com
+www.autopilothq.com
+www.bananatag.com
+www.bateworld.com
+www.bdsmlr.com
+www.beats-prod.grindr.com
+www.bftv.tv
+www.bidswitch.net
+www.bislr.com
+www.bl-1.com
+www.blendr.com
+www.blog.grindr.com
+www.bluekai.com
+www.boomeranggmail.com
+www.boyfriend.tv
+www.boyfriendtv.com
+www.boyfriendtv.net
+www.broadcasts.grindr.com
+www.broapp.com
+www.bumble.com
+www.businessinsider.com
+www.captcha-dev.grindr.com
+www.captcha-prod.grindr.com
+www.ccpa.grindr.com
+www.cdns-preprod.grindr.com
+www.cdns.grindr.com
+www.cf-admin.grindr.com
+www.cf.grindr.com
+www.chappyapp.com
+www.chat-internal.grindr.com
+www.chat.grindr.com
+www.chatsync.grindr.com
+www.cirrusinsight.com
+www.cl.exct.net
+www.click.icptrack.com
+www.click.mailer.atlassian.com
+www.close.io
+www.cmail1.com
+www.coffeemeetsbagel.com
+www.cohere.so
+www.constantcontact.com
+www.contactlab.it
+www.contactmonkey.com
+www.coomer.st
+www.coomer.su
+www.crash.grindr.com
+www.criteo.com
+www.crsend.com
+www.data-access-requests.grindr.com
+www.demdex.net
+www.discuss.grindr.com
+www.dotmailer.com
+www.dotomi.com
+www.doubleclick.net
+www.downloads.grindr.com
+www.dudesnude.com
+www.dzone.com
+www.eharmony.com
+www.eks-gaymoji.grindr.com
+www.elaine-asp.de
+www.email.grindr.com
+www.email.mixmax.com
+www.email.thunkablemail.com
+www.email.uber.com
+www.emailretargeting.com
+www.emailtracking.azure.com
+www.emltrk.com
+www.exacttarget.com
+www.exct.net
+www.fetlife.com
+www.frontapp.com
+www.ftp.grindr.com
+www.fxggxt.com
+www.g3-beta-upload-test.grindr.com
+www.g3-beta-upload.grindr.com
+www.gatehousemedia.com
+www.gay.aebn.com
+www.gaypornhublive.com
+www.getsidekick.com
+www.go.grindr.com
+www.go.rjmetrics.com
+www.go.toutapp.com
+www.grindr-aurora-db-prod-lb.grindr.com
+www.grindr.com
+www.grindrads.com
+www.grindrbloop.com
+www.grommr.com
+www.growlrapp.com
+www.gtc-online.de
+www.gw.grindr.com
+www.happn.com
+www.help.grindr.com
+www.helpdesk.grindr.com
+www.hornet.com
+www.hsms06.com
+www.hubspot.com
+www.icontact.com
+www.icptrack.com
+www.ienkins.grindr.com
+www.ihrgeld2016.com
+www.inbound.grindr.com
+www.infusionsoft.com
+www.insider-intelligence.com
+www.insider.com
+www.intentiq.com
+www.intercom.io
+www.internal-jenkins.grindr.com
+www.into.grindr.com
+www.intomore.com
+www.inxmail.com
+www.iponweb.net
+www.islamicreliefcanada.org
+www.ivitrack.com
+www.jackd.com
+www.jenkins.grindr.com
+www.jetlore.com
+www.justthegays.com
+www.justusboys.com
+www.kik.com
+www.kindr.grindr.com
+www.l.sololearn.com
+www.launchbit.com
+www.legal-agreements-dev.grindr.com
+www.legal-agreements-prod.grindr.com
+www.lemediavault.com
+www.liadm.com
+www.licasd.com
+www.link-preview.grindr.com
+www.link.getmailspring.com
+www.link.mail.mytaxi.com
+www.link.notifications.atlassian.com
+www.links.mixmax.com
+www.list-manage.com
+www.list-manage1.com
+www.litmus.com
+www.locanto.com
+www.lpsg.com
+www.mailchimp.com
+www.maileon.com
+www.mailer-service.de
+www.mailfoogae.appspot.com
+www.mailingwork.de
+www.mailstat.us
+www.mailtrack.io
+www.mandrillapp.com
+www.manhunt.net
+www.marketing.intercom-mail-200.com
+www.markets.businessinsider.com
+www.match.com
+www.mathtag.com
+www.mediawallahscript.com
+www.medium.com
+www.mixmax.com
+www.mixpanel.com
+www.mkt4477.com
+www.mkto-k0023.com
+www.mltrk.io
+www.mmarketing.fr
+www.mojn.com
+www.neo-account-testing.grindr.com
+www.neo-account.grindr.com
+www.neo-upload-cf.grindr.com
+www.neo-upload-v3.grindr.com
+www.neo-upload.grindr.com
+www.neo.grindr.com
+www.nethunt.com
+www.neustar.biz
+www.newsletter2go.de
+www.nexac.com
+www.nsfw.grindr.com
+www.nytimes.com
+www.okcupid.com
+www.openx.net
+www.ortto.com
+www.outrch.com
+www.outreach.io
+www.ping.answerbook.com
+www.pinterest.com
+www.pippio.com
+www.planetromeo.com
+www.plentymarkets.com
+www.pof.com
+www.polymail.io
+www.pornhub.com
+www.postmarkapp.com
+www.preprod1.grindr.com
+www.presence.grindr.com
+www.privacy.grindr.com
+www.prod.ws.sniffies.com
+www.profile.sniffiesassets.com
+www.promio-mail.com
+www.pstmrk.it
+www.qa-jenkins.grindr.com
+www.quora.com
+www.qutieapp.com
+www.r.superhuman.com
+www.rayadatingapp.com
+www.realmen.com
+www.realtime.email
+www.recon.com
+www.relateiq.com
+www.rent.men
+www.rentmasseur.com
+www.rentmen.eu
+www.reporting-portal.grindr.com
+www.returnpath.net
+www.richrelevance.com
+www.rjmetrics.com
+www.rlcdn.com
+www.s3.grindr.com
+www.safetytips.grindr.com
+www.scissr.com
+www.scrippsnetworks.com
+www.scruff.com
+www.securepubads.g.doubleclick.net
+www.selfservice.grindr.com
+www.sendgrid.com
+www.sendgrid.net
+www.service.cohere.so
+www.signal.com
+www.sitescout.com
+www.skout.com
+www.sniffies.com
+www.speed4up.com
+www.splunk-1-us.grindr.com
+www.splunk-2-us.grindr.com
+www.squirt.org
+www.stackshare.io
+www.staging.grindr.com
+www.straypup.com
+www.streak.com
+www.superhuman.com
+www.t.hsms06.com
+www.t.me
+www.t.senalcinco.com
+www.t.senaldos.com
+www.t.senalquatro.com
+www.t.senaltres.com
+www.t.senaluno.com
+www.t.sidekickopen01.com
+www.t.sidekickopen02.com
+www.t.sidekickopen03.com
+www.t.sidekickopen04.com
+www.t.sidekickopen05.com
+www.t.sidekickopen06.com
+www.t.sidekickopen07.com
+www.t.sidekickopen08.com
+www.t.sidekickopen09.com
+www.t.sidekickopen10.com
+www.t.sidekickopen11.com
+www.t.sidekickopen12.com
+www.t.signalecinque.com
+www.t.signaledue.com
+www.t.signalequattro.com
+www.t.signaletre.com
+www.t.signaleuna.com
+www.t.signauxcinq.com
+www.t.signauxdeux.com
+www.t.signauxdix.com
+www.t.signauxhuit.com
+www.t.signauxneuf.com
+www.t.signauxquatre.com
+www.t.signauxsept.com
+www.t.signauxsix.com
+www.t.signauxtrois.com
+www.t.signauxun.com
+www.t.sigopn01.com
+www.t.sigopn02.com
+www.t.sigopn03.com
+www.t.sigopn04.com
+www.t.sigopn05.com
+www.t.strk01.email
+www.t.strk02.email
+www.t.strk03.email
+www.t.strk04.email
+www.t.strk05.email
+www.t.strk06.email
+www.t.strk07.email
+www.t.strk08.email
+www.t.strk09.email
+www.t.strk10.email
+www.t.strk11.email
+www.t.strk12.email
+www.t.strk13.email
+www.t.yesware.com
+www.tapad.com
+www.tastebuds.fm
+www.telegram.org
+www.theleague.com
+www.thisvid.com
+www.tinder.com
+www.tinyletterapp.com
+www.toutapp.com
+www.track.getsidekick.com
+www.track.mixmax.com
+www.trackedlink.net
+www.tracking.cirrusinsight.com
+www.travelbird.com
+www.trinity-cdn.grindr.com
+www.trinity-cf.grindr.com
+www.trinity.grindr.com
+www.trker1.azalead.com
+www.tzoo-img.com
+www.use.maps.sniffies.com
+www.uswapi.sniffies.com
+www.uswapi2.sniffies.com
+www.v12group.com
+www.via.intercom.io
+www.videoamp.com
+www.voicefive.com
+www.wassup.grindr.com
+www.waterboys.com
+www.web-waf.grindr.com
+www.web.frontapp.com
+www.web.grindr.com
+www.web.sniffiesassets.com
+www.web.telegram.org
+www.web2.grindr.com
+www.webtrekk.net
+www.welovepg.polymail.io
+www.whisper.sh
+www.whiteboard.grindr.com
+www.wickedreports.com
+www.wickr.com
+www.widget.wickedreports.com
+www.ws.sniffies.com
+www.xqueue.de
+www.yamm-track.appspot.com
+www.yesware.com
+www.zendesk1.grindr.com
+www.zendesk2.grindr.com
+www.zendesk3.grindr.com
+www.zendesk4.grindr.com
+www.ziffimages.com
+www.zoosk.com
+xqueue.de
+yamm-track.appspot.com
+yesware.com
+zendesk1.grindr.com
+zendesk2.grindr.com
+zendesk3.grindr.com
+zendesk4.grindr.com
+ziffimages.com
+zoosk.com
 
-# Low-quality aggregator sites
-
-0.0.0.0 stackshare.io
-0.0.0.0 www.stackshare.io
-
-# Low-quality download sites
-
-0.0.0.0 speed4up.com
-0.0.0.0 www.speed4up.com
-
-# Low-quality user-generated content sites
-
-0.0.0.0 answers.yahoo.com
-0.0.0.0 www.answers.yahoo.com
-
-# Sketchy extensions
-
-0.0.0.0 autohdvideoapi.com
-0.0.0.0 www.autohdvideoapi.com
-
-# Email tracking
-
-##  Superhuman
-
-0.0.0.0 superhuman.com
-0.0.0.0 www.superhuman.com
-0.0.0.0 r.superhuman.com
-0.0.0.0 www.r.superhuman.com
-
-## https://github.com/OneClickLab/ugly-email-website/blob/gh-pages/pixels.json
-## https://github.com/OneClickLab/ugly-email-website/blob/gh-pages/pixels.js
-
-0.0.0.0 bl-1.com
-0.0.0.0 www.bl-1.com
-0.0.0.0 close.io
-0.0.0.0 www.close.io
-0.0.0.0 contactmonkey.com
-0.0.0.0 www.contactmonkey.com
-0.0.0.0 email.mixmax.com
-0.0.0.0 www.email.mixmax.com
-0.0.0.0 emltrk.com
-0.0.0.0 www.emltrk.com
-0.0.0.0 mailfoogae.appspot.com
-0.0.0.0 www.mailfoogae.appspot.com
-0.0.0.0 mailstat.us
-0.0.0.0 www.mailstat.us
-0.0.0.0 mailtrack.io
-0.0.0.0 www.mailtrack.io
-0.0.0.0 mltrk.io
-0.0.0.0 www.mltrk.io
-0.0.0.0 nethunt.com
-0.0.0.0 www.nethunt.com
-0.0.0.0 outrch.com
-0.0.0.0 www.outrch.com
-0.0.0.0 polymail.io
-0.0.0.0 www.polymail.io
-0.0.0.0 pstmrk.it
-0.0.0.0 www.pstmrk.it
-0.0.0.0 returnpath.net
-0.0.0.0 www.returnpath.net
-0.0.0.0 t.signauxtrois.com
-0.0.0.0 www.t.signauxtrois.com
-0.0.0.0 t.yesware.com
-0.0.0.0 www.t.yesware.com
-0.0.0.0 tinyletterapp.com
-0.0.0.0 www.tinyletterapp.com
-0.0.0.0 toutapp.com
-0.0.0.0 www.toutapp.com
-0.0.0.0 track.mixmax.com
-0.0.0.0 www.track.mixmax.com
-0.0.0.0 tracking.cirrusinsight.com
-0.0.0.0 www.tracking.cirrusinsight.com
-0.0.0.0 welovepg.polymail.io
-0.0.0.0 www.welovepg.polymail.io
-0.0.0.0 yamm-track.appspot.com
-0.0.0.0 www.yamm-track.appspot.com
-
-## https://discourse.pi-hole.net/t/how-do-i-block-e-mail-tracking/15697/4
-## https://github.com/cfa999/email_trackers_block/blob/master/email_trackers
-
-0.0.0.0 acxiom-online.com
-0.0.0.0 www.acxiom-online.com
-0.0.0.0 adsrvr.org
-0.0.0.0 www.adsrvr.org
-0.0.0.0 adsymptopic.com
-0.0.0.0 www.adsymptopic.com
-0.0.0.0 advertising.com
-0.0.0.0 www.advertising.com
-0.0.0.0 agkn.com
-0.0.0.0 www.agkn.com
-0.0.0.0 alcmpn.com
-0.0.0.0 www.alcmpn.com
-0.0.0.0 alocdn.com
-0.0.0.0 www.alocdn.com
-0.0.0.0 api.mixpanel.com
-0.0.0.0 www.api.mixpanel.com
-0.0.0.0 app.mixmax.com
-0.0.0.0 www.app.mixmax.com
-0.0.0.0 app.outreach.io
-0.0.0.0 www.app.outreach.io
-0.0.0.0 app.relateiq.com
-0.0.0.0 www.app.relateiq.com
-0.0.0.0 app.yesware.com
-0.0.0.0 www.app.yesware.com
-0.0.0.0 bananatag.com
-0.0.0.0 www.bananatag.com
-0.0.0.0 bidswitch.net
-0.0.0.0 www.bidswitch.net
-0.0.0.0 bl-1.com
-0.0.0.0 www.bl-1.com
-0.0.0.0 bluekai.com
-0.0.0.0 www.bluekai.com
-0.0.0.0 boomeranggmail.com
-0.0.0.0 www.boomeranggmail.com
-0.0.0.0 cirrusinsight.com
-0.0.0.0 www.cirrusinsight.com
-0.0.0.0 cl.exct.net
-0.0.0.0 www.cl.exct.net
-0.0.0.0 click.icptrack.com
-0.0.0.0 www.click.icptrack.com
-0.0.0.0 click.mailer.atlassian.com
-0.0.0.0 www.click.mailer.atlassian.com
-0.0.0.0 cmail1.com
-0.0.0.0 www.cmail1.com
-0.0.0.0 constantcontact.com
-0.0.0.0 www.constantcontact.com
-0.0.0.0 contactlab.it
-0.0.0.0 www.contactlab.it
-0.0.0.0 criteo.com
-0.0.0.0 www.criteo.com
-0.0.0.0 crsend.com
-0.0.0.0 www.crsend.com
-0.0.0.0 demdex.net
-0.0.0.0 www.demdex.net
-0.0.0.0 dotmailer.com
-0.0.0.0 www.dotmailer.com
-0.0.0.0 dotomi.com
-0.0.0.0 www.dotomi.com
-0.0.0.0 doubleclick.net
-0.0.0.0 www.doubleclick.net
-0.0.0.0 dzone.com
-0.0.0.0 www.dzone.com
-0.0.0.0 elaine-asp.de
-0.0.0.0 www.elaine-asp.de
-0.0.0.0 email.thunkablemail.com
-0.0.0.0 www.email.thunkablemail.com
-0.0.0.0 email.uber.com
-0.0.0.0 www.email.uber.com
-0.0.0.0 emailretargeting.com
-0.0.0.0 www.emailretargeting.com
-0.0.0.0 emailtracking.azure.com
-0.0.0.0 www.emailtracking.azure.com
-0.0.0.0 emltrk.com
-0.0.0.0 www.emltrk.com
-0.0.0.0 exacttarget.com
-0.0.0.0 www.exacttarget.com
-0.0.0.0 exct.net
-0.0.0.0 www.exct.net
-0.0.0.0 frontapp.com
-0.0.0.0 www.frontapp.com
-0.0.0.0 gatehousemedia.com
-0.0.0.0 www.gatehousemedia.com
-0.0.0.0 getsidekick.com
-0.0.0.0 www.getsidekick.com
-0.0.0.0 go.rjmetrics.com
-0.0.0.0 www.go.rjmetrics.com
-0.0.0.0 go.toutapp.com
-0.0.0.0 www.go.toutapp.com
-0.0.0.0 gtc-online.de
-0.0.0.0 www.gtc-online.de
-0.0.0.0 hsms06.com
-0.0.0.0 www.hsms06.com
-0.0.0.0 hubspot.com
-0.0.0.0 www.hubspot.com
-0.0.0.0 icontact.com
-0.0.0.0 www.icontact.com
-0.0.0.0 icptrack.com
-0.0.0.0 www.icptrack.com
-0.0.0.0 ihrgeld2016.com
-0.0.0.0 www.ihrgeld2016.com
-0.0.0.0 infusionsoft.com
-0.0.0.0 www.infusionsoft.com
-0.0.0.0 intentiq.com
-0.0.0.0 www.intentiq.com
-0.0.0.0 intercom.io
-0.0.0.0 www.intercom.io
-0.0.0.0 inxmail.com
-0.0.0.0 www.inxmail.com
-0.0.0.0 iponweb.net
-0.0.0.0 www.iponweb.net
-0.0.0.0 islamicreliefcanada.org
-0.0.0.0 www.islamicreliefcanada.org
-0.0.0.0 ivitrack.com
-0.0.0.0 www.ivitrack.com
-0.0.0.0 jetlore.com
-0.0.0.0 www.jetlore.com
-0.0.0.0 l.sololearn.com
-0.0.0.0 www.l.sololearn.com
-0.0.0.0 launchbit.com
-0.0.0.0 www.launchbit.com
-0.0.0.0 lemediavault.com
-0.0.0.0 www.lemediavault.com
-0.0.0.0 liadm.com
-0.0.0.0 www.liadm.com
-0.0.0.0 licasd.com
-0.0.0.0 www.licasd.com
-0.0.0.0 link.getmailspring.com
-0.0.0.0 www.link.getmailspring.com
-0.0.0.0 link.mail.mytaxi.com
-0.0.0.0 www.link.mail.mytaxi.com
-0.0.0.0 link.notifications.atlassian.com
-0.0.0.0 www.link.notifications.atlassian.com
-0.0.0.0 links.mixmax.com
-0.0.0.0 www.links.mixmax.com
-0.0.0.0 list-manage.com
-0.0.0.0 www.list-manage.com
-0.0.0.0 list-manage1.com
-0.0.0.0 www.list-manage1.com
-0.0.0.0 litmus.com
-0.0.0.0 www.litmus.com
-0.0.0.0 mailchimp.com
-0.0.0.0 www.mailchimp.com
-0.0.0.0 maileon.com
-0.0.0.0 www.maileon.com
-0.0.0.0 mailer-service.de
-0.0.0.0 www.mailer-service.de
-0.0.0.0 mailfoogae.appspot.com
-0.0.0.0 www.mailfoogae.appspot.com
-0.0.0.0 mailingwork.de
-0.0.0.0 www.mailingwork.de
-0.0.0.0 mailstat.us
-0.0.0.0 www.mailstat.us
-0.0.0.0 mailtrack.io
-0.0.0.0 www.mailtrack.io
-0.0.0.0 mandrillapp.com
-0.0.0.0 www.mandrillapp.com
-0.0.0.0 marketing.intercom-mail-200.com
-0.0.0.0 www.marketing.intercom-mail-200.com
-0.0.0.0 mathtag.com
-0.0.0.0 www.mathtag.com
-0.0.0.0 mediawallahscript.com
-0.0.0.0 www.mediawallahscript.com
-0.0.0.0 mixmax.com
-0.0.0.0 www.mixmax.com
-0.0.0.0 mixpanel.com
-0.0.0.0 www.mixpanel.com
-0.0.0.0 mkt4477.com
-0.0.0.0 www.mkt4477.com
-0.0.0.0 mkto-k0023.com
-0.0.0.0 www.mkto-k0023.com
-0.0.0.0 mmarketing.fr
-0.0.0.0 www.mmarketing.fr
-0.0.0.0 mojn.com
-0.0.0.0 www.mojn.com
-0.0.0.0 neustar.biz
-0.0.0.0 www.neustar.biz
-0.0.0.0 newsletter2go.de
-0.0.0.0 www.newsletter2go.de
-0.0.0.0 nexac.com
-0.0.0.0 www.nexac.com
-0.0.0.0 openx.net
-0.0.0.0 www.openx.net
-0.0.0.0 outreach.io
-0.0.0.0 www.outreach.io
-0.0.0.0 ping.answerbook.com
-0.0.0.0 www.ping.answerbook.com
-0.0.0.0 pippio.com
-0.0.0.0 www.pippio.com
-0.0.0.0 plentymarkets.com
-0.0.0.0 www.plentymarkets.com
-0.0.0.0 postmarkapp.com
-0.0.0.0 www.postmarkapp.com
-0.0.0.0 promio-mail.com
-0.0.0.0 www.promio-mail.com
-0.0.0.0 pstmrk.it
-0.0.0.0 www.pstmrk.it
-0.0.0.0 realtime.email
-0.0.0.0 www.realtime.email
-0.0.0.0 relateiq.com
-0.0.0.0 www.relateiq.com
-0.0.0.0 returnpath.net
-0.0.0.0 www.returnpath.net
-0.0.0.0 richrelevance.com
-0.0.0.0 www.richrelevance.com
-0.0.0.0 rjmetrics.com
-0.0.0.0 www.rjmetrics.com
-0.0.0.0 rlcdn.com
-0.0.0.0 www.rlcdn.com
-0.0.0.0 scrippsnetworks.com
-0.0.0.0 www.scrippsnetworks.com
-0.0.0.0 securepubads.g.doubleclick.net
-0.0.0.0 www.securepubads.g.doubleclick.net
-0.0.0.0 sendgrid.com
-0.0.0.0 www.sendgrid.com
-0.0.0.0 sendgrid.net
-0.0.0.0 www.sendgrid.net
-0.0.0.0 sitescout.com
-0.0.0.0 www.sitescout.com
-0.0.0.0 streak.com
-0.0.0.0 www.streak.com
-0.0.0.0 t.hsms06.com
-0.0.0.0 www.t.hsms06.com
-0.0.0.0 t.senalcinco.com
-0.0.0.0 www.t.senalcinco.com
-0.0.0.0 t.senaldos.com
-0.0.0.0 www.t.senaldos.com
-0.0.0.0 t.senalquatro.com
-0.0.0.0 www.t.senalquatro.com
-0.0.0.0 t.senaltres.com
-0.0.0.0 www.t.senaltres.com
-0.0.0.0 t.senaluno.com
-0.0.0.0 www.t.senaluno.com
-0.0.0.0 t.sidekickopen01.com
-0.0.0.0 www.t.sidekickopen01.com
-0.0.0.0 t.sidekickopen02.com
-0.0.0.0 www.t.sidekickopen02.com
-0.0.0.0 t.sidekickopen03.com
-0.0.0.0 www.t.sidekickopen03.com
-0.0.0.0 t.sidekickopen04.com
-0.0.0.0 www.t.sidekickopen04.com
-0.0.0.0 t.sidekickopen05.com
-0.0.0.0 www.t.sidekickopen05.com
-0.0.0.0 t.sidekickopen06.com
-0.0.0.0 www.t.sidekickopen06.com
-0.0.0.0 t.sidekickopen07.com
-0.0.0.0 www.t.sidekickopen07.com
-0.0.0.0 t.sidekickopen08.com
-0.0.0.0 www.t.sidekickopen08.com
-0.0.0.0 t.sidekickopen09.com
-0.0.0.0 www.t.sidekickopen09.com
-0.0.0.0 t.sidekickopen10.com
-0.0.0.0 www.t.sidekickopen10.com
-0.0.0.0 t.sidekickopen11.com
-0.0.0.0 www.t.sidekickopen11.com
-0.0.0.0 t.sidekickopen12.com
-0.0.0.0 www.t.sidekickopen12.com
-0.0.0.0 t.signalecinque.com
-0.0.0.0 www.t.signalecinque.com
-0.0.0.0 t.signaledue.com
-0.0.0.0 www.t.signaledue.com
-0.0.0.0 t.signalequattro.com
-0.0.0.0 www.t.signalequattro.com
-0.0.0.0 t.signaletre.com
-0.0.0.0 www.t.signaletre.com
-0.0.0.0 t.signaleuna.com
-0.0.0.0 www.t.signaleuna.com
-0.0.0.0 t.signauxcinq.com
-0.0.0.0 www.t.signauxcinq.com
-0.0.0.0 t.signauxdeux.com
-0.0.0.0 www.t.signauxdeux.com
-0.0.0.0 t.signauxdix.com
-0.0.0.0 www.t.signauxdix.com
-0.0.0.0 t.signauxhuit.com
-0.0.0.0 www.t.signauxhuit.com
-0.0.0.0 t.signauxneuf.com
-0.0.0.0 www.t.signauxneuf.com
-0.0.0.0 t.signauxquatre.com
-0.0.0.0 www.t.signauxquatre.com
-0.0.0.0 t.signauxsept.com
-0.0.0.0 www.t.signauxsept.com
-0.0.0.0 t.signauxsix.com
-0.0.0.0 www.t.signauxsix.com
-0.0.0.0 t.signauxtrois.com
-0.0.0.0 www.t.signauxtrois.com
-0.0.0.0 t.signauxun.com
-0.0.0.0 www.t.signauxun.com
-0.0.0.0 t.sigopn01.com
-0.0.0.0 www.t.sigopn01.com
-0.0.0.0 t.sigopn02.com
-0.0.0.0 www.t.sigopn02.com
-0.0.0.0 t.sigopn03.com
-0.0.0.0 www.t.sigopn03.com
-0.0.0.0 t.sigopn04.com
-0.0.0.0 www.t.sigopn04.com
-0.0.0.0 t.sigopn05.com
-0.0.0.0 www.t.sigopn05.com
-0.0.0.0 t.strk01.email
-0.0.0.0 www.t.strk01.email
-0.0.0.0 t.strk02.email
-0.0.0.0 www.t.strk02.email
-0.0.0.0 t.strk03.email
-0.0.0.0 www.t.strk03.email
-0.0.0.0 t.strk04.email
-0.0.0.0 www.t.strk04.email
-0.0.0.0 t.strk05.email
-0.0.0.0 www.t.strk05.email
-0.0.0.0 t.strk06.email
-0.0.0.0 www.t.strk06.email
-0.0.0.0 t.strk07.email
-0.0.0.0 www.t.strk07.email
-0.0.0.0 t.strk08.email
-0.0.0.0 www.t.strk08.email
-0.0.0.0 t.strk09.email
-0.0.0.0 www.t.strk09.email
-0.0.0.0 t.strk10.email
-0.0.0.0 www.t.strk10.email
-0.0.0.0 t.strk11.email
-0.0.0.0 www.t.strk11.email
-0.0.0.0 t.strk12.email
-0.0.0.0 www.t.strk12.email
-0.0.0.0 t.strk13.email
-0.0.0.0 www.t.strk13.email
-0.0.0.0 t.yesware.com
-0.0.0.0 www.t.yesware.com
-0.0.0.0 tapad.com
-0.0.0.0 www.tapad.com
-0.0.0.0 toutapp.com
-0.0.0.0 www.toutapp.com
-0.0.0.0 track.getsidekick.com
-0.0.0.0 www.track.getsidekick.com
-0.0.0.0 track.mixmax.com
-0.0.0.0 www.track.mixmax.com
-0.0.0.0 trackedlink.net
-0.0.0.0 www.trackedlink.net
-0.0.0.0 tracking.cirrusinsight.com
-0.0.0.0 www.tracking.cirrusinsight.com
-0.0.0.0 travelbird.com
-0.0.0.0 www.travelbird.com
-0.0.0.0 trker1.azalead.com
-0.0.0.0 www.trker1.azalead.com
-0.0.0.0 tzoo-img.com
-0.0.0.0 www.tzoo-img.com
-0.0.0.0 v12group.com
-0.0.0.0 www.v12group.com
-0.0.0.0 via.intercom.io
-0.0.0.0 www.via.intercom.io
-0.0.0.0 videoamp.com
-0.0.0.0 www.videoamp.com
-0.0.0.0 voicefive.com
-0.0.0.0 www.voicefive.com
-0.0.0.0 web.frontapp.com
-0.0.0.0 www.web.frontapp.com
-0.0.0.0 webtrekk.net
-0.0.0.0 www.webtrekk.net
-0.0.0.0 xqueue.de
-0.0.0.0 www.xqueue.de
-0.0.0.0 yesware.com
-0.0.0.0 www.yesware.com
-0.0.0.0 ziffimages.com
-0.0.0.0 www.ziffimages.com
-
-# User tracking
-
-## Wicked Reports
-
-0.0.0.0 wickedreports.com
-0.0.0.0 www.wickedreports.com
-0.0.0.0 widget.wickedreports.com
-0.0.0.0 www.widget.wickedreports.com
-
-## Autopilot
-
-0.0.0.0 bislr.com
-0.0.0.0 www.bislr.com
-0.0.0.0 autopilothq.com
-0.0.0.0 www.autopilothq.com
-
-## Cohere
-
-0.0.0.0 cohere.so
-0.0.0.0 www.cohere.so
-0.0.0.0 service.cohere.so
-0.0.0.0 www.service.cohere.so
-
-# Annoying loginwall sites
-
-0.0.0.0 quora.com
-0.0.0.0 www.quora.com
-0.0.0.0 pinterest.com
-0.0.0.0 www.pinterest.com
-
-# Annoying paywall sites
-
-## Business Insider
-
-0.0.0.0 businessinsider.com
-0.0.0.0 www.businessinsider.com
-0.0.0.0 markets.businessinsider.com
-0.0.0.0 www.markets.businessinsider.com
-0.0.0.0 insider.com
-0.0.0.0 www.insider.com
-0.0.0.0 insider-intelligence.com
-0.0.0.0 www.insider-intelligence.com
-
-# Last updated: 2022-01-23 03:36
+# LAST UPDATED: 2025-09-10 03:16:58

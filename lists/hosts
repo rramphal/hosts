@@ -192,6 +192,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 mltrk.io
 0.0.0.0 mmarketing.fr
 0.0.0.0 mojn.com
+0.0.0.0 msn.com
 0.0.0.0 neo-account-testing.grindr.com
 0.0.0.0 neo-account.grindr.com
 0.0.0.0 neo-upload-cf.grindr.com
@@ -536,6 +537,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.mltrk.io
 0.0.0.0 www.mmarketing.fr
 0.0.0.0 www.mojn.com
+0.0.0.0 www.msn.com
 0.0.0.0 www.neo-account-testing.grindr.com
 0.0.0.0 www.neo-account.grindr.com
 0.0.0.0 www.neo-upload-cf.grindr.com
@@ -722,4 +724,4 @@ ff02::3 ip6-allhosts
 0.0.0.0 ziffimages.com
 0.0.0.0 zoosk.com
 
-# LAST UPDATED: 2026-06-15 20:06:22
+# LAST UPDATED: 2026-06-20 05:05:20
